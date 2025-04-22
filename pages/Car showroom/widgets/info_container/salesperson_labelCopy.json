@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "0px",
-  "bottomRow": 38,
+  "bottomRow": 43,
   "boxShadow": "none",
   "displayName": "Text",
   "dynamicBindingPathList": [],
@@ -26,7 +26,7 @@
   "text": "Salesperson:",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 34,
+  "topRow": 39,
   "truncateButtonColor": "#FFC13D",
   "type": "TEXT_WIDGET",
   "version": 1,
