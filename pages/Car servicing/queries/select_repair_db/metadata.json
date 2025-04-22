@@ -52,7 +52,7 @@
         "key": "formData.find.skip.data"
       }
     ],
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "name": "select_repair_db",
     "pageId": "Car servicing",
     "userSetOnLoad": false
