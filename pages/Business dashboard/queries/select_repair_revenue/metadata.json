@@ -107,9 +107,9 @@
         "key": "formData.find.query.data"
       }
     ],
-    "executeOnLoad": true,
     "name": "select_repair_revenue",
     "pageId": "Business dashboard",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

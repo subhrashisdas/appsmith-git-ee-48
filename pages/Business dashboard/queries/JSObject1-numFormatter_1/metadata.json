@@ -23,10 +23,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "JSObject1.numFormatter_1",
     "name": "numFormatter_1",
     "pageId": "Business dashboard",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

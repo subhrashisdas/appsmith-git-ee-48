@@ -23,10 +23,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "JSObject1.getCarsSold",
     "name": "getCarsSold",
     "pageId": "Business dashboard",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
