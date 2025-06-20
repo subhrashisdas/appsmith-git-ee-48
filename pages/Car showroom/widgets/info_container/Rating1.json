@@ -2,7 +2,7 @@
   "activeColor": "#5A38FD",
   "animateLoading": true,
   "borderRadius": "0px",
-  "bottomRow": 67,
+  "bottomRow": 74,
   "boxShadow": "none",
   "defaultRate": "{{List.selectedItem.rating}}",
   "displayName": "Rating",
@@ -35,7 +35,7 @@
   "rightColumn": 43,
   "size": "LARGE",
   "tooltips": "[\n  \"Terrible\",\n  \"Bad\",\n  \"Neutral\",\n  \"Good\",\n  \"Great\"\n]",
-  "topRow": 63,
+  "topRow": 70,
   "type": "RATE_WIDGET",
   "widgetId": "p8021zljm8",
   "widgetName": "Rating1"
